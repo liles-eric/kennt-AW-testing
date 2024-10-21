@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves working with the **AdventureWorks sample database**, hosted in **Azure SQL**. The primary goal is to enhance the dataset with external information (e.g., weather data, custom date dimension) and build a comprehensive **Power BI dashboard**. We’ll also integrate **Generative AI (ChatGPT, Hugging, Claude?) API** for automatic data summaries and insights into both the Power BI dashboard and the SQL data.
+This project involves working with the **AdventureWorks sample database**, hosted in **Azure SQL**. The primary goal is to enhance the dataset with external information (e.g., weather data, custom date dimension) and to integrate with **Generative AI**. We’ll also integrate **Generative AI (ChatGPT, Hugging, Claude?) API** for automatic data summaries and insights into both the Power BI dashboard and the SQL data.
 
 ---
 
